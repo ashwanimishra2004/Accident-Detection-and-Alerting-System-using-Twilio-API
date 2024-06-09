@@ -28,8 +28,5 @@ will benefit from the need to save precious human lives.
 7) Also enter the phone number which you have to send the SMS.
 8) Now, Run the code.
 
-## Poject Team Members:
-1) Aashish Shetye
-2) Amaan Siddiqui
-3) Gaurav Wankhede
-4) Manish Yadav
+## Poject Head:
+1. Ashwani Mishra 
